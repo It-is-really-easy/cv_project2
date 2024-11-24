@@ -41,7 +41,8 @@ pip install numpy opencv-python matplotlib
 ### 运行代码
 
 ```bash
-python pysift.py
+python connecting.py
+python matching.py
 ```
 
 ### 额外功能
