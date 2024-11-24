@@ -64,3 +64,6 @@ python matching.py
 4. Bay, H., Tuytelaars, T., & Van Gool, L. "SURF: Speeded up robust features." European Conference on Computer Vision. Springer, 2006.
 5. Rublee, E., et al. "ORB: An efficient alternative to SIFT or SURF." International Conference on Computer Vision (2011): 2564-2571.
 6. [PythonSIFT](https://github.com/rmislam/PythonSIFT) - 本项目参考的开源 SIFT 实现。
+
+## 更新
+该项目已上传https://github.com/It-is-really-easy/cv_project2
